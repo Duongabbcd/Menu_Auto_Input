@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">07_Nhom10</string>
+
+    <string-array name="auto" >
+        <item>Ha Noi</item>
+        <item>Hai Phong</item>
+        <item>Ha Giang</item>
+        <item>Hoi An</item>
+        <item>Thanh Hoa</item>
+        <item>Sai Gon</item>
+
+    </string-array>
+
+</resources>
